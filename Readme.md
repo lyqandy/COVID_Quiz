@@ -1,4 +1,4 @@
-### 2019-nCoV
+### COVID_Quiz
 
 #### Platform
 
